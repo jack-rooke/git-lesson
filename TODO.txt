@@ -1,0 +1,6 @@
+- Create my first repo (done)
+- Add a file (done)
+- Have a look at the git history (done)
+- Hands-on excercise
+- pull from remote
+- etc.
